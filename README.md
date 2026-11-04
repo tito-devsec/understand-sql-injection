@@ -1,6 +1,17 @@
-# Understanding SQL Injection
+<h1 align="center">💉 Understanding SQL Injection</h1>
+<p align="center"><b>From SQL basics to real exploitation and prevention, explained for developers and testers.</b></p>
 
-A comprehensive guide to understanding SQL, SQL Injection vulnerabilities, exploitation techniques, and prevention strategies.
+<p align="center">
+  <img src="https://img.shields.io/badge/Topic-SQL%20Injection-B91C1C?style=flat-square" alt="Topic" />
+  <img src="https://img.shields.io/badge/OWASP-A03%3A2021%20Injection-000000?style=flat-square" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Level-Basics%20%E2%86%92%20Advanced-2ea44f?style=flat-square" alt="Level" />
+  <a href="https://github.com/tito-devsec/understand-sql-injection/stargazers"><img src="https://img.shields.io/github/stars/tito-devsec/understand-sql-injection?style=flat-square&color=f1c40f" alt="Stars" /></a>
+</p>
+
+<p align="center"><i>Found this useful? A ⭐ helps other developers find it before an attacker finds their bug.</i></p>
+
+---
+
 
 ## 📚 Table of Contents
 
